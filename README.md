@@ -1,5 +1,10 @@
 # 🛒 Lista de Productos con Carrito
 
+
+
+https://github.com/user-attachments/assets/786d4123-8837-4373-aa4c-6d87f295ca77
+
+
 ## 📖 Visión General
 Este proyecto es una aplicación web que permite a los usuarios visualizar una lista de productos y añadirlos a un carrito de compras. El objetivo es ofrecer una experiencia interactiva y fácil de usar, simulando el proceso de compra en línea. La aplicación está diseñada para ser intuitiva y funcional, destacando características como la actualización dinámica del carrito y la confirmación de pedidos.
 
