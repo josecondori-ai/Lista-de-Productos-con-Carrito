@@ -21,17 +21,17 @@ Este proyecto es una aplicación web que permite a los usuarios visualizar una l
 - **Fetch API**: Obtención de datos de productos desde un archivo JSON. 📦
 
 ## 🌐 Demostración
-Puedes ver una demostración en vivo del proyecto en el siguiente enlace: [Demo en vivo](#). 🚀
+Puedes ver una demostración en vivo del proyecto en el siguiente enlace: [Demo en vivo](https://josecondori-ai.github.io/Lista-de-Productos-con-Carrito/). 🚀
 
 
 ## Cómo Usar
 1. 🚀 Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/proyecto-tarjetas.git
+    https://github.com/josecondori-ai/Lista-de-Productos-con-Carrito.git
     ```
 2. 📂 Navega al directorio del proyecto:
     ```bash
-    cd proyecto-tarjetas
+    cd Lista-de-Productos-con-Carrito
     ```
 3. 🌐 Abre el archivo `index.html` en tu navegador para ver las tarjetas en acción.
 
